@@ -5,7 +5,7 @@ import csv       # To handle writing weather data to a CSV file
 from datetime import datetime  # To record the current date and time when data is fetched
 
 # OpenWeatherMap API key (replace 'your_openweathermap_api_key' with your actual API key)
-API_KEY = '70b28742e7023dcaf570a86bda9a7a61'
+API_KEY = 'your-own-key'
 # Base URL for the OpenWeatherMap API
 BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
 
