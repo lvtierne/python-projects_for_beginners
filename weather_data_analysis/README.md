@@ -1,4 +1,4 @@
-# Weather Data Analysis Project(Beginner Python Project)
+# Weather Data Analysis (Beginner Python Project)
 
 ## Description
 This project pulls real-time weather data for a specified city using the OpenWeatherMap API and stores the data in a CSV file. It then allows you to analyze the stored data to calculate averages, maximum and minimum temperatures, and humidity.
