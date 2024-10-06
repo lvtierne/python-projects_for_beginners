@@ -1,0 +1,26 @@
+{
+    "food": [
+        {
+            "amount": 10.5,
+            "description": "Lunch at a restaurant",
+            "date": "2024-10-05"
+        },
+        {
+            "amount": 15.0,
+            "description": "Groceries",
+            "date": "2024-10-06"
+        },
+        {
+            "amount": 22.9,
+            "description": "went to starbucks",
+            "date": "2024-10-05"
+        }
+    ],
+    "misc": [
+        {
+            "amount": 5.75,
+            "description": "Quick add",
+            "date": "2024-10-05"
+        }
+    ]
+}
